@@ -17,7 +17,7 @@ jobs:
       # System julia
       - uses: julia-actions/setup-julia@v1
         with:
-          version: '1.8.5'
+          version: '1.9.2'
       - uses: julia-actions/cache@v1
 
       - name: Build the article PDF
