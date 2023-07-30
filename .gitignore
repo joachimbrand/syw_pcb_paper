@@ -14,3 +14,6 @@ src/tex/figures/*
 __pycache__
 *.synctex.gz
 Manifest.toml
+
+# Mac
+.DS_Store
